@@ -8,9 +8,9 @@ El deporte que más a evolucionado en la actualidad sería el padel. Es un depor
 El circuito profesional más conocido sería el [World padel tour](https://worldpadeltour.com/) o más bien conocido como: **WPT** es el circuito donde se enfrentan constantemente los mejores jugadores de este deporte. Si es cierto que no es una organiczación tan longeva como la **ATP** que sería el circuito profesional de tenis, pero si es cierto que con el paso de los años están tomando más repercusión dentro del deporte profesional. 
 
 ### Ranking 
- TOP 1 | TOP 2 | TOP 3 
- ----- | ----- | ----- 
- Coello y Tapia | Stupa y Di Nenno | Lebrón y Galán 
+| TOP 1 | TOP 2 | TOP 3 |
+| ----- | ----- | ----- |
+| Coello y Tapia | Stupa y Di Nenno | Lebrón y Galán |
 
 ## Parejas de moda
 
