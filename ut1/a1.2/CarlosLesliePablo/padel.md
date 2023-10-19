@@ -10,7 +10,7 @@ El circuito profesional más conocido sería el [World padel tour](https://world
 ### Ranking 
 | TOP 1 | TOP 2 | TOP 3 |
 | ----- | ----- | ----- |
-| Coello y Tapia | Stupa y Di Nenno | Lebrón y Galán | 
+| Coello y Tapia | Stupa y Di Nenno | Lebrón y Galán |
 
 ## Parejas de moda
 
