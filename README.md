@@ -1,2 +1,2 @@
 # LND
-## Recursos de ejemplo de las actividades del módulo LND
+## Recursos de ejemplo y actividades del módulo LND
